@@ -14,21 +14,12 @@
 <ul>
   <li>Finish all 3 Phases of Justice Through Code</li>
   <li>Return to school to get my Bachelor's Degree</li>
-  <li>Eventually land a job in the Cyber Security with CrowdStrike</li>
+  <li>Land a job in Cyber Security with my dream company: CrowdStrike</li>
   <li>Continue exploring the world!</li>
 </ul>
 
 <h2>Let's Connect!</h2>
-<p>If you'd like to connect with me you can find me on <a href="https://www.linkedin.com/in/jamesmgiraldo/">LinkedIn!</a></p>
-
-- 👋 Hi, I’m @jmichaelgiraldo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<p>I'd love to connect with you! You can find me on <a href="https://www.linkedin.com/in/jamesmgiraldo/">LinkedIn!</a></p>
 <!---
 jmichaelgiraldo/jmichaelgiraldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
