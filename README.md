@@ -1,5 +1,5 @@
 <body>
-<h1 style="text-align:center";>Hi I'm James!</h1>
+<h1 style="text-align: center;">Hi, I'm James!</h1>
 
 <h2>About Me</h2>
 <p>I live in Austin, Texas, but grew up in Connecticut. I am new to the tech world, and am currently a student of Columbia University's Justice Through Code Program! I currently have an Associate's Degree in Business Management. Once I complete my studies with Columbia University, I intent to return to school to get my Bachelor's Degree</p>
