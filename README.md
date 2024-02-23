@@ -13,9 +13,7 @@
 <p>My future goal is to enter the Cyber Security industry and land a job at CrowdStrike.</p>
 
 <h2>Let's Connect!</h2>
-<p>If you'd like to connect with me you can find me on LinkedIn!</p>
-
-
+<p>If you'd like to connect with me you can find me on <a href="https://www.linkedin.com/in/jamesmgiraldo/">LinkedIn!</a></p>
 
 - 👋 Hi, I’m @jmichaelgiraldo
 - 👀 I’m interested in ...
