@@ -10,7 +10,13 @@
 <p>I have no previous technical experience. I currently work as an Event Manager for a catering company. The majority of my professional experience has been in sales.</p>
 
 <h2>The Future!</h2>
-<p>My future goal is to enter the Cyber Security industry and land a job at CrowdStrike.</p>
+<p>My future goals are:</p>
+<ul>
+  <li>Finish all 3 Phases of Justice Through Code</li>
+  <li>Return to school to get my Bachelor's Degree</li>
+  <li>Eventually land a job in the Cyber Security with CrowdStrike</li>
+  <li>Continue exploring the world!</li>
+</ul>
 
 <h2>Let's Connect!</h2>
 <p>If you'd like to connect with me you can find me on <a href="https://www.linkedin.com/in/jamesmgiraldo/">LinkedIn!</a></p>
