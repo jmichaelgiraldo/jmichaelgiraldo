@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vertical Center Alignment</title>
 </head>
 <body style="display: flex; align-items: center; height: 100vh; margin: 0;">
   <h1 style="margin: auto;">Hi, I'm James!</h1>
